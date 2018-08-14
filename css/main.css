@@ -1,6 +1,6 @@
 body {
 	margin: 0px;
-	background: url('img/background.jpg') fixed;
+	background: url('../img/background.jpg') fixed;
 	width: 100%;
 	height: auto;
 }
@@ -16,17 +16,17 @@ h1 { color: transparent; }
 }
 
 #layer_1 {
-	background: url("img/rock_1.png") no-repeat 0px 200px;
+	background: url("../img/rock_1.png") no-repeat 0px 200px;
 }
 
 #layer_2 {
-	background: url("img/owl_1.png") no-repeat 600px 400px;
+	background: url("../img/owl_1.png") no-repeat 600px 400px;
 }
 
 #layer_3 {
-	background: url("img/rock_2.png") no-repeat 700px 10px;
+	background: url("../img/rock_2.png") no-repeat 700px 10px;
 }
 
 #layer_4 {
-	background: url("img/rock_3.png") no-repeat -120px 400px;
+	background: url("../img/rock_3.png") no-repeat -120px 400px;
 }
